@@ -1,5 +1,5 @@
 Marketing_clustering
-Project Master Class Marketing Clustering AI with a neural networks
+Project Master Class Marketing Clustering AI with a neural networks and clean dataset like a pro
 import pandas as pd
 import numpy as np
 import seaborn as sns
